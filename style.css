@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+/* Header section CSS */
+.header-section{
+    background: #0b1979;
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+}
+.header-section h3{
+    font-size: 25px;
+}
+.header-section h3 sup{
+    color:orange;
+}
+/* Cover section CSS */
+.cover-section{
+    text-align: center;
+    background: #000000;
+}
+.cover-section p{
+    color: white;
+    background: #047504;
+    font-family: 'Yellowtail', cursive;
+    font-size: 40px;
+}
+/* about-section CSS */
+.about-section{
+    text-align: center;
+}
+.about-section h1{
+    background: #834646;
+    font-family: 'Yellowtail', cursive;
+    font-size: 65px;
+    text-transform: capitalize;
+
+}
+.about-section p{
+	font-size: 1.5rem;
+	word-spacing: 2px;
+    background: #eeeeee;
+}
+
+/* Service section CSS */
+.service-section{
+    background: #297a48;
+    text-align: center;
+    
+}
+.service-section p{
+    color: #000000;
+    font-size: 5em;
+    font-style: italic;
+    word-spacing: 5px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* service-menu CSS */
+.service-menu{
+    text-align: center;
+    background: #eeeeee;
+    
+}
+.service-menu h2{
+    text-transform: capitalize;
+    word-spacing: 1px;
+    font-size:x-large;
+    font-family: 'Open Sans', sans-serif;
+}
+.service-menu p{
+    font-size: 20px;
+}
+/* contact-section CSS */
+.contact-section{
+    background: #0d6efd;
+    text-align: center;
+}
+.contact-section p{
+    font-size: 4.5rem;
+    font-family: 'Open Sans', sans-serif;
+}
+/* form-section CSS */
+.form-section{
+    text-align: center;
+    background: #eeeeee;  
+}
+
+/* footer-top CSS */
+
+.footer-top{
+    background: #4f84c4;
+    text-align: center;
+    color: white;
+}
+.footer-top h2{
+    font-family: 'Yellowtail', cursive;
+    text-transform: uppercase;
+    font-size: 60px;
+    
+}
+.footer-top h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.footer-top p{
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+/* footer CSS */
+
+.footer{
+    background: #000;
+    text-align: center;
+}
+.footer p{
+    color: white;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    
+}
+.footer p a{
+    text-decoration: none;
+    color: blue;
+}
+
